@@ -1,0 +1,29 @@
+Simulation,condition,"averaged burst duration MNF (% of step cycle, which is normalised to 100)",averaged burst duration MNE,Percent of Step Cycle with Co-activation (%)
+10,control,54.3,34.2,0
+11,control,54,31.8,0
+12,control,53.9,36.2,0
+13,control,54.2,34.9,0
+14,control,53.6,35.3,0
+15,control,54.7,31.7,0
+16,control,55.3,33,0
+17,control,54.7,28.3,0
+18,control,54.3,24.8,0
+19,control,55.5,28,0
+20,control,54.6,34.8,0
+1,v2b blocked,44.6,82.4,27
+2,v2b blocked,48.1,109,57.1
+3,v2b blocked,47.4,129.7,77.1
+4,v2b blocked,45.4,65,10.4
+5,v2b blocked,45.7,73.9,19.6
+6,v2b blocked,47,96.4,43.4
+7,v2b blocked,47.9,119.5,67.4
+8,v2b blocked,45.4,95.6,41
+9,v2b blocked,43.8,71.1,14.9
+10,v2b blocked,47.2,110.4,57.6
+11,v2b blocked,45.9,63.5,9.4
+12,v2b blocked,46.5,128.8,75.3
+13,v2b blocked,44.4,61.1,5.5
+15,v2b blocked,42.7,68.3,11
+16,v2b blocked,43.5,74.3,17.8
+17,v2b blocked,42.7,83.1,25.8
+19,v2b blocked,44.1,76.8,20.9

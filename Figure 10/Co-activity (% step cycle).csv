@@ -1,0 +1,57 @@
+Simulation,condition,Burst duration,MN type
+10,control,54.3,MNF
+11,control,54,MNF
+12,control,53.9,MNF
+13,control,54.2,MNF
+14,control,53.6,MNF
+15,control,54.7,MNF
+16,control,55.3,MNF
+17,control,54.7,MNF
+18,control,54.3,MNF
+19,control,55.5,MNF
+20,control,54.6,MNF
+1,v2b blocked,44.6,MNF
+2,v2b blocked,48.1,MNF
+3,v2b blocked,47.4,MNF
+4,v2b blocked,45.4,MNF
+5,v2b blocked,45.7,MNF
+6,v2b blocked,47,MNF
+7,v2b blocked,47.9,MNF
+8,v2b blocked,45.4,MNF
+9,v2b blocked,43.8,MNF
+10,v2b blocked,47.2,MNF
+11,v2b blocked,45.9,MNF
+12,v2b blocked,46.5,MNF
+13,v2b blocked,44.4,MNF
+15,v2b blocked,42.7,MNF
+16,v2b blocked,43.5,MNF
+17,v2b blocked,42.7,MNF
+19,v2b blocked,44.1,MNF
+10,control,34.2,MNE
+11,control,31.8,MNE
+12,control,36.2,MNE
+13,control,34.9,MNE
+14,control,35.3,MNE
+15,control,31.7,MNE
+16,control,33,MNE
+17,control,28.3,MNE
+18,control,24.8,MNE
+19,control,28,MNE
+20,control,34.8,MNE
+1,v2b blocked,82.4,MNE
+2,v2b blocked,109,MNE
+3,v2b blocked,129.7,MNE
+4,v2b blocked,65,MNE
+5,v2b blocked,73.9,MNE
+6,v2b blocked,96.4,MNE
+7,v2b blocked,119.5,MNE
+8,v2b blocked,95.6,MNE
+9,v2b blocked,71.1,MNE
+10,v2b blocked,110.4,MNE
+11,v2b blocked,63.5,MNE
+12,v2b blocked,128.8,MNE
+13,v2b blocked,61.1,MNE
+15,v2b blocked,68.3,MNE
+16,v2b blocked,74.3,MNE
+17,v2b blocked,83.1,MNE
+19,v2b blocked,76.8,MNE
